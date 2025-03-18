@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Verifica fila A - es A")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7df4b0be2d483dc9302318f63d1482c64627b132")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+de2ca9dae47f3fd192262d932087b43975ccd874")]
 [assembly: System.Reflection.AssemblyProductAttribute("Verifica fila A - es A")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Verifica fila A - es A")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
